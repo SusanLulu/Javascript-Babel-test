@@ -32,7 +32,7 @@ babel app.js.es6 > app.js
 
 ```
 
-#####Reference:
+###### Reference:
 http://babeljs.io/blog/2015/10/31/setting-up-babel-6/
 
 
